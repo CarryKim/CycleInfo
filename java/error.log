@@ -1,0 +1,12 @@
+------------------------------------------
+예외발생시간 : Sat Mar 04 10:15:34 KST 2017
+java.lang.ArithmeticException: / by zero
+	at book.ch8.ExceptionEx14.main(ExceptionEx14.java:20)
+예외메시지 : / by zero
+------------------------------------------
+------------------------------------------
+예외발생시간 : Sat Mar 04 10:39:33 KST 2017
+java.lang.ArithmeticException: / by zero
+	at book.ch8.ExceptionEx14.main(ExceptionEx14.java:20)
+예외메시지 : / by zero
+------------------------------------------
